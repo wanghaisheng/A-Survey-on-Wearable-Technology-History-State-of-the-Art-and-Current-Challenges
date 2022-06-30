@@ -56,3 +56,19 @@ cost=10，gamma=0.0476(默认)时，模型的均方误差最小，为 0.0139。�
 能手环的用户群体可以向女性用户进行拓展，设计出美观且更加符合女性功能的
 智能手环。最后老人用户也是值得挖掘的市场，如今人们更加关心健康与养老，
 因此健康功能的研发是提高手环销量的重要举措
+
+
+### 
+
+![image](https://user-images.githubusercontent.com/2363295/176777007-2d5a1920-ee02-4cb4-b1bd-1c28273adfe9.png)
+
+![image](https://user-images.githubusercontent.com/2363295/176776957-7b8d7a89-0524-4b4d-8663-be717a721cd8.png)
+
+
+![image](https://user-images.githubusercontent.com/2363295/176777161-637b950d-61fa-4f88-957f-e96e66198bbe.png)
+
+
+![image](https://user-images.githubusercontent.com/2363295/176777211-5ca9d545-ad87-4d6f-91c0-087d91722529.png)
+![image](https://user-images.githubusercontent.com/2363295/176777248-2c70fc6b-05c1-4419-a7e3-8c3b00610edc.png)
+
+
